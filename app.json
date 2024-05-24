@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "‎ "
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -55,7 +55,7 @@
     "WARN_LIMIT": {
       "description": "Maximum number of wanings to a person.",
       "required": false,
-      "value": "3"
+      "value": "0"
     },
     "FORCE_LOGOUT": {
       "description": "In Some scenario have to logout web, Only such case make this true and back to false after logout.",
@@ -70,12 +70,12 @@
     "ANTILINK_MSG": {
       "description": "Message send when antilink and action is kick.",
       "required": false,
-      "value": "_Antilink Detected &mention kicked_"
+      "value": "_Prohibido mandar links &mention petateado por gordito_"
     },
     "ANTISPAM_MSG": {
       "description": "Message send when antispam.",
       "required": false,
-      "value": "_Antispam Detected &mention kicked_"
+      "value": "_No hagas spam &mention petateado por fofo_"
     },
     "ANTIWORDS_MSG": {
       "description": "Message send when antiword.",
