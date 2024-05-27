@@ -25,7 +25,7 @@ A simple WhatsApp User bot.
 
    - Install with script
 
-         wget -N -O levanter.sh http://bit.ly/43JqREw && chmod +x levanter.sh && ./levanter.sh
+         wget -N -O levanter.sh https://gist.githubusercontent.com/d0ce3/3c2dbed67c235d71508d33030e716339/raw && chmod +x levanter.sh && ./levanter.sh
 
    - Install without a script
        - Install git, ffmpeg, and curl:
@@ -48,7 +48,7 @@ A simple WhatsApp User bot.
 
        - Clone the repository and install packages:
 
-             git clone https://github.com/lyfe00011/whatsapp-bot-md botName
+             git clone https://github.com/d0ce3/whatsapp-bot-md botName
               cd botName
                yarn install --network-concurrency 1
 
